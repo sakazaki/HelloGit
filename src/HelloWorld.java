@@ -28,12 +28,7 @@ public class HelloWorld {
 		System.out.println("test");
 
 		// 承認後に予定変更できるように対応
-		System.out.println("test");
-		System.out.println("test");
-		System.out.println("test");
-		System.out.println("test");
-		System.out.println("test");
-		System.out.println("test");
+		System.out.println("Java");
 
 	}
 
