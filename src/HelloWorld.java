@@ -32,6 +32,10 @@ public class HelloWorld {
 		System.out.println("Java");
 		System.out.println("Java");
 
+		System.out.println("b1");
+		System.out.println("b1");
+		System.out.println("b1");
+
 	}
 
 }
