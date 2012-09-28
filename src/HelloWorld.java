@@ -8,6 +8,13 @@
 public class HelloWorld {
 
 	/**
+	 * コンストラクタ
+	 *
+	 */
+	private HelloWorld() {
+	}
+
+	/**
 	 * システムアウトします
 	 *
 	 * @param args
