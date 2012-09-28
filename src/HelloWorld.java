@@ -8,6 +8,13 @@
 public class HelloWorld {
 
 	/**
+	 * コンストラクタ
+	 *
+	 */
+	private HelloWorld() {
+	}
+
+	/**
 	 * システムアウトします
 	 *
 	 * @param args
@@ -31,6 +38,10 @@ public class HelloWorld {
 		System.out.println("Java");
 		System.out.println("Java");
 		System.out.println("Java");
+
+		System.out.println("b1");
+		System.out.println("b1");
+		System.out.println("b1");
 
 	}
 
